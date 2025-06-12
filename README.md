@@ -35,7 +35,7 @@ chmod +x idlekiller.sh
 ./idlekiller.sh -i 10 -c 5 -x  # Scan for idle processes >10mi
 
 Use ./idlekiller.sh -h to see all options.
-
+```
 ---
 
 ## 📽️ Demo
