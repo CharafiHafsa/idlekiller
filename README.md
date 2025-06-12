@@ -25,8 +25,6 @@ A smart Bash script designed to **scan**, **analyze**, and **safely kill** idle 
 | `config/`         | Default configurations and whitelist      |
 | `logs/`           | Generated logs (auto-created)             |
 | `test/demo.mp4`   | Video demonstration of script in action   |
-| `report/`         | Full written report of the project        |
-| `presentation/`   | PDF presentation used in class            |
 
 ---
 
