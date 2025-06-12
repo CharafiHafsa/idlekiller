@@ -1,0 +1,63 @@
+# ========= SYSTEM PROTECTION (DO NOT REMOVE) =========
+# Core system users
+root
+systemd
+daemon
+nobody
+messagebus
+syslog
+
+# Essential system processes
+init
+systemd
+bash
+sshd
+dbus
+agetty
+cron
+rsyslog
+network-manager
+
+# ========= WSL/VSCODE PROTECTION =========
+# WSL core processes
+wsl
+wslhost
+wslinit
+WSL
+[init]
+[WSL]
+
+# VS Code processes
+code
+vscode
+vscode-server
+.code
+.vscode
+.vscode-server
+
+# ========= DEVELOPMENT ENVIRONMENT PROTECTION =========
+# Terminals and shells
+bash
+zsh
+sh
+fish
+tmux
+screen
+konsole
+gnome-terminal
+
+# Development tools
+node
+npm
+python
+python3
+ruby
+java
+docker
+containerd
+
+# ========= USER CUSTOMIZATIONS =========
+# Add your custom protected processes/users below this line
+# Example:
+# myuser
+# my_important_process
