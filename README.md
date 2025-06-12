@@ -36,10 +36,14 @@ chmod +x idlekiller.sh
 
 Use ./idlekiller.sh -h to see all options.
 
-📽️ Demo
+---
+
+## 📽️ Demo
 A quick video showing how the script detects and terminates idle processes is available in the test/demo.mp4 file.
 
-📚 Project Context
+---
+
+## 📚 Project Context
 This script was created as part of a mini project in Operating Systems during my engineering studies in Cybersecurity and Digital Trust. The goal was to:
 
 Learn how to interact with system processes, build safe automation tools, and understand concurrency, signals, and resource management in Unix-based systems.
