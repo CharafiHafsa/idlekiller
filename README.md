@@ -1,6 +1,7 @@
 # 🧠 idlekiller.sh - Intelligent Idle Process Manager
 
 A smart Bash script designed to **scan**, **analyze**, and **safely kill** idle or resource-heavy processes on a Linux system. Created as part of an Operating Systems mini project to apply real-world process management.
+
 ![image](https://github.com/user-attachments/assets/3a21376d-f0cd-40df-95d6-2cb804399a46)
 
 ---
